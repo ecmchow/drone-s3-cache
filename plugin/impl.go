@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/drone-plugins/drone-s3-cache/storage/s3"
-	"github.com/drone/drone-cache-lib/archive/util"
-	"github.com/drone/drone-cache-lib/cache"
-	"github.com/drone/drone-cache-lib/storage"
+	"github.com/ecmchow/drone-cache-lib/archive/util"
+	"github.com/ecmchow/drone-cache-lib/cache"
+	"github.com/ecmchow/drone-cache-lib/storage"
+	"github.com/ecmchow/drone-s3-cache/storage/s3"
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli/v2"
 )

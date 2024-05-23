@@ -6,8 +6,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/drone/drone-cache-lib/storage"
 	"github.com/dustin/go-humanize"
+	"github.com/ecmchow/drone-cache-lib/storage"
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
 	"github.com/sirupsen/logrus"
