@@ -1,11 +1,13 @@
 # escape=`
 
 # Build executable
-FROM golang:1.19 AS builder
+FROM golang:1.22 AS builder
 WORKDIR /app
 COPY go.mod ./
 COPY go.sum ./
 COPY *.go ./
+COPY plugin ./
+COPY storage ./
 ENV CGO_ENABLED=0
 RUN go build -v -a -tags netgo -o release/windows/amd64/drone-s3-cache.exe .
 
