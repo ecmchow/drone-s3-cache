@@ -12,7 +12,7 @@ import (
 
 	"github.com/drone-plugins/drone-plugin-lib/errors"
 	"github.com/drone-plugins/drone-plugin-lib/urfave"
-	"github.com/drone-plugins/drone-s3-cache/plugin"
+	"github.com/ecmchow/drone-s3-cache/plugin"
 	"github.com/joho/godotenv"
 	"github.com/urfave/cli/v2"
 )

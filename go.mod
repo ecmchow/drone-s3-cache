@@ -1,4 +1,4 @@
-module github.com/drone-plugins/drone-s3-cache
+module github.com/ecmchow/drone-s3-cache
 
 go 1.22
 
