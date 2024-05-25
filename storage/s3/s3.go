@@ -153,7 +153,8 @@ func (s *s3Storage) Put(p string, src io.Reader) error {
 	logrus.WithFields(logrus.Fields{
 		"bucket": bucket,
 		"key":    key,
-		"size":   uploadInfo,
+		"info":   uploadInfo,
+		"size":   humanize.Bytes(uint64(uploadInfo.Size)),
 	}).Info("file uploaded")
 	return nil
 }

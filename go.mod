@@ -7,7 +7,7 @@ toolchain go1.22.3
 require (
 	github.com/drone-plugins/drone-plugin-lib v0.4.0
 	github.com/dustin/go-humanize v1.0.0
-	github.com/ecmchow/drone-cache-lib v0.0.0-20240523175233-942be8ab4399
+	github.com/ecmchow/drone-cache-lib v0.0.0-20240525154124-848f10508e84
 	github.com/joho/godotenv v1.4.0
 	github.com/minio/minio-go/v7 v7.0.45
 	github.com/sirupsen/logrus v1.9.0
@@ -24,7 +24,6 @@ require (
 	github.com/minio/sha256-simd v1.0.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/pierrec/lz4/v4 v4.1.21 // indirect
 	github.com/rs/xid v1.4.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect

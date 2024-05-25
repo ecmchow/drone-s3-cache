@@ -9,8 +9,8 @@ github.com/drone-plugins/drone-plugin-lib v0.4.0 h1:qywEYGhquUuid6zNLmKia8CWY1TU
 github.com/drone-plugins/drone-plugin-lib v0.4.0/go.mod h1:EgqogX38GoJFtckeSQyhBJYX8P+KWBPhdprAVvyRxF8=
 github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
-github.com/ecmchow/drone-cache-lib v0.0.0-20240523175233-942be8ab4399 h1:furqLOFi+eGzpxxiBnmIgwBEXTjerrZYxi2Ei5XiaIo=
-github.com/ecmchow/drone-cache-lib v0.0.0-20240523175233-942be8ab4399/go.mod h1:rJm0eIQrNVl2opT+CGhyWr1jnhW+7/f0VOJIA59wF24=
+github.com/ecmchow/drone-cache-lib v0.0.0-20240525154124-848f10508e84 h1:0S1wqOAbzoPtbO0liMA9oxfjAwykh1Avam/PdUn6KBI=
+github.com/ecmchow/drone-cache-lib v0.0.0-20240525154124-848f10508e84/go.mod h1:8I1TKKv50uGEQJA8V3dtSnDMjtkd9xD5err8YnNndAk=
 github.com/franela/goblin v0.0.0-20181003173013-ead4ad1d2727 h1:eouy4stZdUKn7n98c1+rdUTxWMg+jvhP+oHt0K8fiug=
 github.com/franela/goblin v0.0.0-20181003173013-ead4ad1d2727/go.mod h1:7dvUGVsVBjqR7JHJk0brhHOZYGmfBYOrK0ZhYMEtBr4=
 github.com/google/go-cmp v0.3.0/go.mod h1:8QqcDgzrUqlUb/G2PQTWiueGozuR1884gddMywk6iLU=
@@ -39,8 +39,6 @@ github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
-github.com/pierrec/lz4/v4 v4.1.21 h1:yOVMLb6qSIDP67pl/5F7RepeKYu/VmTyEXvuMI5d9mQ=
-github.com/pierrec/lz4/v4 v4.1.21/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
